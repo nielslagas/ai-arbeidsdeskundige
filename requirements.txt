@@ -1,0 +1,10 @@
+fastapi
+sqlmodel
+psycopg2-binary
+python-dotenv
+supabase[embeddings]
+uvicorn
+celery
+redis
+python-docx
+google-generativeai
